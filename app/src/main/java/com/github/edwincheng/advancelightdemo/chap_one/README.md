@@ -18,4 +18,14 @@
 
 10. Notification 通知
 > 三种通知：1. 普通Noyification  2. 折叠式 3.悬挂式
+  代码如上面所示，需要到app应用中开启 通知权限，
+  并且mainifest添加:     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 
+11. Toolbar 可写成自定义toolbar工具栏。
+
+## Android 6.0特性
+
+1. 运行时权限
+2. Android Pay
+3. 指纹支持
+4. Doze电量管理
