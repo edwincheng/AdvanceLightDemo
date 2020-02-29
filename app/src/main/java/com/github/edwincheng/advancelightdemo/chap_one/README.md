@@ -26,6 +26,9 @@
 ## Android 6.0特性
 
 1. 运行时权限
+> 运行是权限包含Normal Permissions 和Dangerous Permissions
 2. Android Pay
 3. 指纹支持
 4. Doze电量管理
+5. app links（关联app跳转，比如有个推特链接，点击链接可以自己跳转到推特apps）
+6. now on tap
